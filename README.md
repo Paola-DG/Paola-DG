@@ -45,6 +45,8 @@ me.say_hi()
 <br>
 <h1 aligh="left">📚 Books</h1>
 
+- 📗 **Closed**
+- 📘 **In Progress** | ***Data Structures & Algorithms in Python*** by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser |
 
 <br>
 <h1 aligh="left">📌 Connect with me:</h1>
