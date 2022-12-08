@@ -1,4 +1,4 @@
-# Paola Dorado Galicia | Paola Dorado Galicia  📌
+# 📌  Paola Dorado Galicia  📌
 
 **'Software Developer'**
 
