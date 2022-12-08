@@ -6,9 +6,21 @@ class AboutMe:
     def _init_(self):
         self.who_i_am = "I am a computer science student interested in technologies such as artificial intelligence,"\
                         " internet of things, cloud computing, and any other technology belonging to industry 4.0."
-        self
-    
+        
+        self.education = {
+            "High School": {"COSABA": "Technical Professional, Development and administration of computer applications."},
+            "Certificates Programs": {"ITLA": "Artificial Intelligence"}
+        }
+
+        self.currently = "Self-Taught Computer Science Student"
+
+        self.languages_spoken = ["es_ES", "en_US"]
+
     def say_hi(self):
+        print("Thanks for dropping by. I hope you find some of my work interesting and useful to you.")
+
+me = AboutMe()
+me.say_hi()
 ```
 
 - ✏ I’m currently learning ***from scratch Python to be a better coder.***
