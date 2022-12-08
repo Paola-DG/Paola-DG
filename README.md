@@ -25,9 +25,11 @@ me.say_hi()
 
 <br>
 
-- ✏ I’m currently learning ***from scratch Python to be a better coder.***
-- 💡 I’m currently looking ***create coding projects to solve real-life problems***, but to get there I have to take one step at a time by doing skill-based projects.
-- 
+<h3 align="left">⏳ Currently:</h3>
+
+- ✏ I’m learning ***from scratch Python to be a better coder.***
+- 💡 I’m looking ***create coding projects to solve real-life problems***, but to get there I have to take one step at a time by doing skill-based projects.
+- 📖 I'm reading ***Data Structures & Algorithms in Python*** by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
