@@ -1,6 +1,8 @@
 <h1 align="center">◻ I'm Paola Dorado Galicia ◻</h1>
 <h3 align="center">Self-Taught Computer Science Student</h3>
 
+<br>
+
 ```python
 class AboutMe:
     def _init_(self):
@@ -12,8 +14,6 @@ class AboutMe:
             "Certificates Programs": {"ITLA": "Artificial Intelligence"}
         }
 
-        self.currently = "Self-Taught Computer Science Student"
-
         self.languages_spoken = ["es_ES", "en_US"]
 
     def say_hi(self):
@@ -22,6 +22,8 @@ class AboutMe:
 me = AboutMe()
 me.say_hi()
 ```
+
+<br>
 
 - ✏ I’m currently learning ***from scratch Python to be a better coder.***
 - 💡 I’m currently looking ***create coding projects to solve real-life problems***, but to get there I have to take one step at a time by doing skill-based projects.
