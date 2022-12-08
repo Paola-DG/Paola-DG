@@ -28,10 +28,10 @@ me.say_hi()
 <h3 align="left">⏳ Currently:</h3>
 
 - ✏ I’m learning ***from scratch Python to be a better coder.***
-- 💡 I’m looking ***create coding projects to solve real-life problems***, but to get there I have to take one step at a time by doing skill-based projects.
+- 🔍 I’m looking ***create coding projects to solve real-life problems***, but to get there I have to take one step at a time by doing skill-based projects.
 - 📖 I'm reading ***Data Structures & Algorithms in Python*** by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📌 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paoladoradogalicia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paoladoradogalicia" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dgpaoladg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dgpaoladg" height="30" width="40" /></a>
