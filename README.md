@@ -27,14 +27,14 @@ me.say_hi()
 
 <h1 align="left">⏳ Currently:</h1>
 
-- ✏ I’m learning ***from scratch Python to be a better coder.***
+- ✏ I’m learning ***from scratch C++***
 - 🔍 I’m looking ***create coding projects to solve real-life problems***, but to get there I have to take one step at a time by doing skill-based projects.
-- 📖 I'm reading ***Data Structures & Algorithms in Python*** by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser.
+- 📖 I'm reading ***Algorithms in C++ parts 1-4*** by Robert Sedgewick.
  <br>
 <h1 align="left">⚙ Languages and Tools</h1>
 
 <h3 align="left">🎯 I want to learn before 2024:</h3>
-<p><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p>
+<p><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p>
 
 <h3 align="left">🥈 Mid-Level:</h3>
 <p><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a></p>
@@ -46,7 +46,7 @@ me.say_hi()
 <h1 aligh="left">📚 Books</h1>
 
 - 📗 **Closed**
-- 📘 **In Progress** | ***Data Structures & Algorithms in Python*** by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser |
+- 📘 **In Progress** | ***Algorithms in C++ parts 1-4*** by Robert Sedgewick.
 
 <br>
 <h1 aligh="left">📌 Connect with me:</h1>
