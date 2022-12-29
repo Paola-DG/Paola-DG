@@ -29,7 +29,7 @@ me.say_hi()
 
 - ✏ I’m learning ***from scratch C++***
 - 🔍 I’m looking ***create coding projects to solve real-life problems***, but to get there I have to take one step at a time by doing skill-based projects.
-- 📖 I'm reading ***Algorithms in C++ parts 1-4*** by Robert Sedgewick.
+- 📖 I'm reading ***Clean Code*** by Robert C. Martin Series.
  <br>
 <h1 align="left">⚙ Languages and Tools</h1>
 
@@ -46,7 +46,7 @@ me.say_hi()
 <h1 aligh="left">📚 Books</h1>
 
 - 📗 **Closed**
-- 📘 **In Progress** | ***Algorithms in C++ parts 1-4*** by Robert Sedgewick.
+- 📘 **In Progress** | ***Clean Code*** by Robert C. Martin Series.
 
 <br>
 <h1 aligh="left">📌 Connect with me:</h1>
