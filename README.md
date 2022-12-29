@@ -27,7 +27,7 @@ me.say_hi()
 
 <h1 align="left">⏳ Currently:</h1>
 
-- ✏ I’m learning ***from scratch C++***
+- ✏ I’m learning ***Git**
 - 🔍 I’m looking ***create coding projects to solve real-life problems***, but to get there I have to take one step at a time by doing skill-based projects.
 - 📖 I'm reading ***Clean Code*** by Robert C. Martin Series.
  <br>
