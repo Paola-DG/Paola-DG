@@ -1,5 +1,5 @@
 <h1 align="center">◻ I'm Paola Dorado Galicia ◻</h1>
-<h3 align="center">Self-Taught Computer Science Student</h3>
+<h3 align="center">Computer Science Student</h3>
 
 <br>
 
