@@ -6,12 +6,14 @@
 ```python
 class AboutMe:
     def _init_(self):
-        self.who_i_am = "I am a computer science student interested in technologies such as artificial intelligence,"\
+        self.who_i_am = "I am a computer engineering student interested in technologies such as artificial intelligence,"\
                         " internet of things, cloud computing, and any other technology belonging to industry 4.0."
         
         self.education = {
             "High School": {"COSABA": "Technical Professional, Development and administration of computer applications."},
-            "Certificates Programs": {"ITLA": "Artificial Intelligence"}
+            "Certificates Programs": {"ITLA": "Artificial Intelligence"},
+            "Bachelor of Science": {"Florida International University": "Computer Engineering",
+                                    "Florida International University": "Computer Science"}
         }
 
         self.languages_spoken = ["es_ES", "en_US"]
@@ -27,6 +29,7 @@ me.say_hi()
 
 <h1 align="left">⏳ Currently:</h1>
 
+- 🎓 I'm majoring ***Computer Engineering***, first-year.
 - ✏ I’m learning ***Git***
 - 🔍 I’m looking ***create coding projects to solve real-life problems***, but to get there I have to take one step at a time by doing skill-based projects.
 - 📖 I'm reading ***Clean Code*** by Robert C. Martin Series.
