@@ -12,8 +12,7 @@ class AboutMe:
         self.education = {
             "High School": {"COSABA": "Technical Professional, Development and administration of computer applications."},
             "Certificates Programs": {"ITLA": "Artificial Intelligence"},
-            "Bachelor of Science": {"Florida International University": "Computer Engineering",
-                                    "Florida International University": "Computer Science"}
+            "Bachelor of Science": {"Florida International University": "Computer Engineering"}
         }
 
         self.languages_spoken = ["es_ES", "en_US"]
