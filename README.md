@@ -47,8 +47,8 @@ me.say_hi()
 <br>
 <h1 aligh="left">📚 Books</h1>
 
-- 📗 **Closed**
-- 📘 **In Progress** | ***Clean Code*** by Robert C. Martin Series.
+- 📗 **Closed** | ***Clean Code*** by Robert C. Martin Series.
+- 📘 **In Progress** | ***Starting out with Java Early Objects*** by Tony Gaddis.
 
 <br>
 <h1 aligh="left">📌 Connect with me:</h1>
