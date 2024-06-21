@@ -29,13 +29,13 @@ me.say_hi()
 <h1 align="left">⏳ Currently:</h1>
 
 - 🎓 I'm majoring ***Computer Engineering***, first-year.
-- ✏ I’m learning ***Git***
+- ✏ I’m learning ***Java***
 - 🔍 I’m looking ***create coding projects to solve real-life problems***, but to get there I have to take one step at a time by doing skill-based projects.
-- 📖 I'm reading ***Clean Code*** by Robert C. Martin Series.
+- 📖 I'm reading ***Starting out with Java Early Objects*** by Tony Gaddis.
  <br>
 <h1 align="left">⚙ Languages and Tools</h1>
 
-<h3 align="left">🎯 I want to learn before 2024:</h3>
+<h3 align="left">🎯 I want to learn before 2022:</h3>
 <p><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p>
 
 <h3 align="left">🥈 Mid-Level:</h3>
